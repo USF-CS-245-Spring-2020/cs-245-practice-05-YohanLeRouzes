@@ -1,0 +1,1 @@
+I chose MergeSort to sort the integers of that file because it is the sorting algorithm that ultimately has the shortest sorting time. It's sorting time is (n log n) in Best and Worst case which makes it the most appropriate sorting algorithm to sort such a long list of integers.
